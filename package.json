@@ -8,7 +8,7 @@
     "url": "https://github.com/DMMDTOM/Demo_DMM_Test"
   },
   "dependencies": {
-    "qs": "0.0.3",
+    "qs": "6.0.4",
     "node-uuid": "1.4.0"
   }
 }
