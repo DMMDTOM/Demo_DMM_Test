@@ -8,6 +8,6 @@
     "url": "https://github.com/DMMDTOM/Demo_DMM_Test"
   },
   "dependencies": {
-    "qs": "0.0.4"
+    "qs": "0.0.2"
   }
 }
